@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/razanasanu/leekcode/tree/master/0049-group-anagrams) |
+| [2058-concatenation-of-array](https://github.com/razanasanu/leekcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/razanasanu/leekcode/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/razanasanu/leekcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
