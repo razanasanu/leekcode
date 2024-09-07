@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/razanasanu/leekcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/razanasanu/leekcode/tree/master/0049-group-anagrams) |
 | [2058-concatenation-of-array](https://github.com/razanasanu/leekcode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/razanasanu/leekcode/tree/master/3311-ant-on-the-boundary) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/razanasanu/leekcode/tree/master/3311-ant-on-the-boundary) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/razanasanu/leekcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
