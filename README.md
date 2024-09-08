@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/razanasanu/leekcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/razanasanu/leekcode/tree/master/2556-convert-the-temperature) |
 ## Prefix Sum
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/razanasanu/leekcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/razanasanu/leekcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
